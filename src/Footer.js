@@ -12,7 +12,7 @@ export default function Footer() {
           Open-source code
         </a>
         , by{" "}
-        <a href="https://github.com/v14sta" rel="noreferrer">
+        <a href="https://github.com/v14sta" target="_blank" rel="noreferrer">
           Venj
         </a>
       </small>
