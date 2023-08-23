@@ -11,7 +11,7 @@ export default function Footer() {
         >
           Open-source code
         </a>
-        , by <a href="https://www.matdelac.io">Venj</a>
+        , by <a href="https://github.com/v14sta">Venj</a>
       </small>
     </div>
   );
